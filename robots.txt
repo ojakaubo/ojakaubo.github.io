@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ojakaubo.github.io/DMK/sitemap_index.txt
+Sitemap: https://ojakaubo.github.io/GNU/sitemap_index.txt
+Sitemap: https://ojakaubo.github.io/PXZ/sitemap_index.txt
+Sitemap: https://ojakaubo.github.io/wNq/sitemap_index.txt
